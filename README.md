@@ -1,24 +1,12 @@
 # README
+# THP - Week 4 - Project 4 - Freedoc
+# Francois Thiounn
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Creation des tables :
+	- Patient
+	- Doctor
+	- Appointment
+	- Specialty
+	- DoctorSpecialty
+	- City
+liaison effectuée entre ces tables et mise en place d'un seed realiste et conséquent
