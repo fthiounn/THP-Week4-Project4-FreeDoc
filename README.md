@@ -3,10 +3,9 @@
 # Francois Thiounn
 
 Creation des tables :
-	- Patient
-	- Doctor
-	- Appointment
-	- Specialty
-	- DoctorSpecialty
+	- Dog
 	- City
+	- DogSitter
+	- DogStroll
+	- Stroll
 liaison effectuée entre ces tables et mise en place d'un seed realiste et conséquent

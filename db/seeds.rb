@@ -74,21 +74,3 @@ end
     specialty_id: specialties[rand(1..array_specialty.size-1)].id)
   puts "Seeding an additional Ramdom specialty to a Random Doctor nb#{x}"
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
